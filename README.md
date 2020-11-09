@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - **C++ and Python** lover
 - Recently learning **algorithm and statistic learning** 
 <a href="https://github.com/wzmw-zr">
-****
 #### github基础统计信息
+****
+  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wzmw-zr&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/wzmw-zr">
