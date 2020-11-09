@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/wzmw-zr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzmw-zr&layout=compact" />
 </a>
-### About Me
 
+### About Me
 - A senior undergraduate from China Mainland
 - **C++ and Python** lover
 - Recently learning **algorithm and statistic learning** 
