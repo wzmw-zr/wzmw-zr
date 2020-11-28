@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## 你好，我是 wzmw-zr
 ### About Me
 - A senior undergraduate from China Mainland
-- **C++ and Python** lover
+- **C++ and Python** user
 - Recently learning **algorithm and statistic learning** 
 <a href="https://github.com/wzmw-zr">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wzmw-zr&count_private=true&show_icons=true&theme=radical" />
