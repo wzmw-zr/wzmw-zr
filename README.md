@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 你好，我是 wzmw-zr
 ### About Me
-- A senior undergraduate from China Mainland
+- A postgraduate of HIT (Shen Zhen).
 - **C++ and Python** user
 - Recently learning **algorithm and statistic learning** 
 <a href="https://github.com/wzmw-zr">
